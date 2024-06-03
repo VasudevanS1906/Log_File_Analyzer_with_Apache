@@ -32,5 +32,5 @@ python analyze_log_file.py /path/to/Apache_logs_1.txt
 # Screenshot
 
 The following screenshot signifies the successful completion of the above program through the display of output
-![Screenshot] ()
+![Screenshot] (apache_success_output.jpg)
 
