@@ -33,5 +33,21 @@ python analyze_log_file.py /path/to/Apache_logs_1.txt
 
 The following screenshot signifies the successful completion of the above program through the display of output
 
-![Screenshot] (apache_success_output.jpg)
+![Screenshot](apache_success_output.jpg)
 
+# Support and Contact
+
+If you have any questions, please feel free to contact me at [vasudevanswornampillai@gmail.com].
+
+# License
+
+This project is licensed under the **Apache 2.0 License**.
+
+# Share with the community
+
+If you find this project interesting or helpful, don't hesitate to share with your community! Let's learn and grow together!
+
+# Conclusion
+
+In this project, we’ve developed a log file analyser for analysing web server logs with Apache. The model, a beacon of performance, awaits those go into the beautiful world of Python.
+ 
